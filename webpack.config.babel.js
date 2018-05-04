@@ -57,16 +57,7 @@ export default env => {
                 sourceMap: true
               }
             },
-            {
-              loader: 'postcss-loader',
-              options: {
-                ident: 'postcss',
-                plugins: [
-                  require('postcss-cssnext')()
-                ],
-                sourceMap: true
-              }
-            }
+            'postcss-loader'
           ]
         },
         {
