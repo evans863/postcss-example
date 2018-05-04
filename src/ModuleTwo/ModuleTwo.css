@@ -1,0 +1,8 @@
+.moduleTwo {
+  width: var(--moduleWidth);
+  background-color: var(--color-white);
+}
+
+.moduleTwoHeading {
+  color: var(--color-blue);
+}

@@ -1,0 +1,8 @@
+.moduleOne {
+  width: var(--moduleWidth);
+  background-color: var(--color-white);
+}
+
+.moduleOneHeading {
+  color: var(--color-red);
+}
