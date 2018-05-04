@@ -6,7 +6,7 @@ export default class ModuleTwo extends React.Component {
   render() {
     return(
       <div className={styles.moduleTwo}>
-        <h2 className={styles.moduleTwoHeading}>Module two heading - should be red</h2>
+        <h2 className={styles.moduleTwoHeading}>Module two heading - should be blue</h2>
       </div>
     );
   }
